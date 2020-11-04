@@ -1,0 +1,36 @@
+.jumbotron-index{
+    background-image: url("img/h-shaw-UhOIDLhhIcI-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 16%;
+    padding-bottom: 16%;
+}
+.heading {
+    color: snow;
+}
+.jumbotron-consult{
+    background-image: url("img/national-cancer-institute-gO-iULv-qbU-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 16%;
+    padding-bottom: 16%;
+}
+.jumbotron-about{
+    background-image: url("img/zach-vessels-WxRd7byFxs4-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 16%;
+    padding-bottom: 16%;
+}
+.footer {
+    padding: 10px;
+}
+.button {
+    padding: 20px;
+    background-image: url("img/h-shaw-UhOIDLhhIcI-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.myform {
+    margin: 100px;
+}
